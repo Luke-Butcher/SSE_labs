@@ -1,0 +1,1 @@
+gcloud compute instances delete lsrb1 lsrb2 lsrb3
